@@ -10,7 +10,6 @@ led7 = pin(15,pin.OUT)
 led8 = pin(2,pin.OUT)
 led9 = pin(4,pin.OUT)
 led10 = pin(5,pin.OUT)
-led10 = pin(25,pin.OUT)
 ledt = [led1, led2, led3, led4, led5, led6, led7, led8, led9, led10]
 def derecha():
     for i in ledt:
